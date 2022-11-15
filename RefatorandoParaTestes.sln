@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefatorandoParaTestes.Domain", "RefatorandoParaTestes\RefatorandoParaTestes.Domain.csproj", "{950799CF-A5EC-4A4B-9EB2-D1DD003882C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefatorandoParaTests.Test", "RefatorandoParaTests.Test\RefatorandoParaTests.Test.csproj", "{9F5B6C41-9114-4795-B586-FB218C2FFEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950799CF-A5EC-4A4B-9EB2-D1DD003882C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950799CF-A5EC-4A4B-9EB2-D1DD003882C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950799CF-A5EC-4A4B-9EB2-D1DD003882C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950799CF-A5EC-4A4B-9EB2-D1DD003882C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5B6C41-9114-4795-B586-FB218C2FFEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5B6C41-9114-4795-B586-FB218C2FFEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5B6C41-9114-4795-B586-FB218C2FFEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5B6C41-9114-4795-B586-FB218C2FFEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EE0E12-5FEF-4651-8D54-F6298E2C3810}
+	EndGlobalSection
+EndGlobal

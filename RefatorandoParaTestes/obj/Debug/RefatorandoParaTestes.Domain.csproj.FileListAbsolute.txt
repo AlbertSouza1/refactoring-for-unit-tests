@@ -1,0 +1,8 @@
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\bin\Debug\RefatorandoParaTestes.dll
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\bin\Debug\RefatorandoParaTestes.pdb
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\obj\Debug\RefatorandoParaTestes.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\obj\Debug\RefatorandoParaTestes.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\obj\Debug\RefatorandoParaTestes.dll
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\obj\Debug\RefatorandoParaTestes.pdb
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\bin\Debug\Flunt.dll
+C:\Projetos\Refatorando_Para_Testes\RefatorandoParaTestes\RefatorandoParaTestes\obj\Debug\RefatorandoParaTestes.Domain.csproj.CopyComplete
